@@ -1,0 +1,31 @@
+{
+  "charge": 1,
+  "formulas": [
+    {"name": "water", "formula": "H2O"},
+    {"name": "calcium_hydroxide", "formula": "Ca(OH)2"},
+    {"name": "nested_demo", "formula": "((CH3)2CH)2"}
+  ],
+  "elements": {
+    "H": [
+      {"mass_number": 1, "exact_mass": 1.00782503223, "abundance": 0.999885},
+      {"mass_number": 2, "exact_mass": 2.01410177812, "abundance": 0.000115}
+    ],
+    "C": [
+      {"mass_number": 12, "exact_mass": 12.0, "abundance": 0.9893},
+      {"mass_number": 13, "exact_mass": 13.00335483507, "abundance": 0.0107}
+    ],
+    "O": [
+      {"mass_number": 16, "exact_mass": 15.99491461957, "abundance": 0.99757},
+      {"mass_number": 17, "exact_mass": 16.99913175650, "abundance": 0.00038},
+      {"mass_number": 18, "exact_mass": 17.99915961286, "abundance": 0.00205}
+    ],
+    "Ca": [
+      {"mass_number": 40, "exact_mass": 39.962590863, "abundance": 0.96941},
+      {"mass_number": 42, "exact_mass": 41.95861783, "abundance": 0.00647},
+      {"mass_number": 43, "exact_mass": 42.95876643, "abundance": 0.00135},
+      {"mass_number": 44, "exact_mass": 43.95548156, "abundance": 0.02086},
+      {"mass_number": 46, "exact_mass": 45.95368799, "abundance": 0.00004},
+      {"mass_number": 48, "exact_mass": 47.95252276, "abundance": 0.00187}
+    ]
+  }
+}
