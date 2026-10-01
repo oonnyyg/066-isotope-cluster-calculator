@@ -1,0 +1,44 @@
+{
+  "formula": "H2O",
+  "charge": 1,
+  "element_counts": {
+    "H": 2,
+    "O": 1
+  },
+  "total_probability": 1.0,
+  "average_mass": 18.015286748420003,
+  "average_mz": 18.015286748420003,
+  "peak_count": 5,
+  "peaks": [
+    {
+      "mass_number": 18,
+      "probability": 0.9973405720928632,
+      "mean_exact_mass": 18.010565000000003,
+      "mz": 18.010565000000003
+    },
+    {
+      "mass_number": 19,
+      "probability": 0.000609327319299,
+      "mean_exact_mass": 19.01555760006984,
+      "mz": 19.01555760006984
+    },
+    {
+      "mass_number": 20,
+      "probability": 0.0020496291099235003,
+      "mean_exact_mass": 20.01481031992095,
+      "mz": 20.01481031992095
+    },
+    {
+      "mass_number": 21,
+      "probability": 4.714508030000001e-07,
+      "mean_exact_mass": 21.021087066612143,
+      "mz": 21.021087066612143
+    },
+    {
+      "mass_number": 22,
+      "probability": 2.7111250000000005e-11,
+      "mean_exact_mass": 22.027364,
+      "mz": 22.027364
+    }
+  ]
+}
